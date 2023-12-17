@@ -1,0 +1,152 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(240,240,240);
+}
+
+.def_dis{
+    margin:auto;
+    width: 300px;
+    background-color:rgb(160, 221, 246);
+    padding: 5px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.def_dis h2{
+    margin: auto;
+    width: 200px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.def_dis h2:hover{
+    background-color: rgb(200,200,200);
+    border-radius: 15px;
+}
+
+.main_container{
+    display: none;
+    margin:auto;
+    width: 300px;
+    color: rgb(120,120,120);
+    background-color: rgb(250,250,250);
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.container-1{
+    background-color:rgb(160, 221, 246);
+    color: black;
+    padding: 10px 10px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.container-1 h2{
+    width: 200px;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.container-1 h2:hover{
+    background-color: rgb(200,200,200);
+}
+
+.main_container i{
+    padding: 5px;
+}
+
+.main_container_status{
+    display: flex;
+    margin: 5px 10px;
+}
+
+.main_container_bluebox-first{
+    width: 40px;
+    height: 8px;
+    background-color: rgb(30, 179, 238);
+    margin:1px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.main_container_bluebox-last{
+    width: 40px;
+    height: 8px;
+    background-color: rgb(142, 197, 218);
+    margin: 1px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.main_container_bluebox{
+    width: 40px;
+    height: 8px;
+    background-color: rgb(30, 179, 238);
+    margin: 1px;
+}
+
+
+h2{
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+h2:hover{
+    background-color: rgb(200,200,200);
+}
+
+.hidden_maindiv h2 i{
+    float: right;
+}
+
+p{
+    margin: 5px 5px 5px 25px;
+}
+
+button{
+    padding: 5px;
+    background-color: rgb(220,220,220);
+    border-radius: 10px;
+    border-width: 1px;
+    margin: 10px 30px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 10px 30px;
+}
+
+img{
+    display: inline;
+    padding: 0px 10px;
+}
+
+.hidden_div-3{
+    display: none;
+}
+
+.hidden_div-4{
+    display: none;
+}
+
+.hidden_div-5{
+    display: none;
+}
+
+.hidden_div-6{
+    display: none;
+}
+
+.hidden_div-7{
+    display: none;
+}
